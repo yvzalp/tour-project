@@ -1,0 +1,27 @@
+
+ul{
+display: flex;
+justify-content: center;
+
+column-gap: 1rem;
+background-color: yellowgreen;
+flex-wrap: wrap;
+
+
+}
+li{
+    
+    list-style-type: none;
+    padding: 1rem;
+    /* border: 2px solid red; */
+   
+}
+li:hover{
+    background-color: aqua;
+  
+   
+}
+a{
+    text-decoration: none;
+    color: white;
+}
